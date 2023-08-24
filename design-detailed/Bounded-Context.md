@@ -10,4 +10,4 @@ Este Bounded Context abarca toda la parte encargada del manejo de usuarios, desd
 
 Este contexto esta asociada a las rutas que los conductores ofrecen y los usuarios pueden elegir, esta se encarga de abarcar todo lo relacionado con la creacion, edicion, eliminacion de rutas y consultas de estas por parte de los usuarios.
 
-![bounded-context]([image](https://github.com/F3liP3L/CarpoolingUCO-SoftwareIII-Documentacion/blob/main/resource/DDD_Carpooling_UCO-DDD_Bounded_Context.drawio.png)
+![bounded-context](https://github.com/F3liP3L/CarpoolingUCO-SoftwareIII-Documentacion/blob/main/resource/DDD_Carpooling_UCO-DDD_Bounded_Context.drawio.png)
